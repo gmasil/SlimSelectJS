@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>de.gmasil.thirdparty</groupId>
 	<artifactId>slimselectjs</artifactId>
-	<version>1.20.0-SNAPSHOT</version>
+	<version>1.20.0</version>
 	<name>Slim Select JS</name>
 	<inceptionYear>2017</inceptionYear>
 	<url>https://github.com/brianvoe/slim-select</url>
